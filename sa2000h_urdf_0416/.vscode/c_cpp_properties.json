@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/tong/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/tong/catkin_ws/src/mr1205_moveit_ikfast_plugins/mr1205_moveit_ikfast_plugins/include/**",
+        "/home/tong/catkin_ws/src/mr1210_moveit_ikfast_plugins/mr1210_moveit_ikfast_plugins/include/**",
+        "/home/tong/catkin_ws/src/mr_moveit_ikfast_plugins/mr_moveit_ikfast_plugin_mr/include/**",
+        "/home/tong/catkin_ws/src/step_ikfast_plugin/include/**",
+        "/home/tong/catkin_ws/src/yunhua_moveit_ikfast_plugins/yunhua_moveit_ikfast_plugin_0103/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
